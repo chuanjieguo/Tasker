@@ -170,7 +170,6 @@ namespace Tasker
                 return false;
 
 
-
             bool tmp = title == ele.title &&
                    type == ele.type &&
                    timeType == ele.timeType &&
